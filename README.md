@@ -1,1 +1,1 @@
-Create a folder in your name and put all your Sharon Hackathon prep in this repository
+Create a folder in your name, then put all your Sharon Hackathon code in this repository
